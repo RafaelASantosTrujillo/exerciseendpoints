@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "nombre": "Ash Ketchup",
+        "region": "Kanto",
+        "pokemon": ["Pikachu", "Charmander", "Squirtle"]
+    },
+    {
+        "id":2,
+        "nombre": "Gary",
+        "region": "Kanto",
+        "pokemon": ["Squirtle", "Hashirama"]
+    },
+    {
+        "id":3,
+        "nombre": "Tobias",
+        "region": "Kanto",
+        "pokemon": ["Latios", "Entei"]
+    }
+]

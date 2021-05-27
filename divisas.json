@@ -1,0 +1,71 @@
+[
+    {
+      "moneda": "USD",
+      "tipoCambio": [
+        {
+          "moneda": "MXN",
+          "valor": 19.89
+        },
+        {
+          "moneda": "EUR",
+          "valor": 0.82
+        },
+        {
+          "moneda": "YEN",
+          "valor": 109.2
+        }
+      ]
+    },
+    {
+      "moneda": "MXN",
+      "tipoCambio": [
+        {
+          "moneda": "USD",
+          "valor": 0.05
+        },
+        {
+          "moneda": "EUR",
+          "valor": 0.041
+        },
+        {
+          "moneda": "YEN",
+          "valor": 5.49
+        }
+      ]
+    },
+    {
+      "moneda": "EUR",
+      "tipoCambio": [
+        {
+          "moneda": "MXN",
+          "valor": 24.25
+        },
+        {
+          "moneda": "USD",
+          "valor": 1.22
+        },
+        {
+          "moneda": "YEN",
+          "valor": 133.07
+        }
+      ]
+    },
+    {
+      "moneda": "YEN",
+      "tipoCambio": [
+        {
+          "moneda": "MXN",
+          "valor": 7.92
+        },
+        {
+          "moneda": "USD",
+          "valor": 0.4
+        },
+        {
+          "moneda": "EUR",
+          "valor": 1.22
+        }
+      ]
+    }
+  ]
+  
